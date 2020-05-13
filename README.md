@@ -26,16 +26,6 @@ a sale or if the user decides to not sell the textbook.
 from Amazon, including an image of the textbook cover, price, authors, and the
 book description.
 
-### Changed Requirements
-1. It is a Android Based for now. 
-2. No Change.
-3. No Change.
-4. Puts the buyer into direct contact with the seller through email.
-5. Books are automatically matched through the Google APi to make adding books easier. If non-existent in API, Sellers will
-need to manually add a book with Title, Author, ISBN-13, Description, Price and Condition.
-6. No Change.
-7. Instead Amazon API, we had to change the requirements to fit a Google API due to project members not having a amazon affliate business account.
-
 ### Extra Features Added
 1. A browse function to see the latest books added to the system
 2. A settings option to change email address and password
